@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ScifiFacility/Scenes/scene_lightsOn.unity
+    guid: f279b7f1feabf4e6b9bf5ed6fb2d0241
+  - enabled: 0
+    path: Assets/Scenes/Outbreak Scenes/scene_gameOver.unity
+    guid: 3cee09f58421dd24f92ca3e04a27305a
+  - enabled: 0
+    path: Assets/Scenes/Outbreak Scenes/scene_playAgain.unity
+    guid: 9665bf45e0308ce4d8c74b92ab200b69
+  - enabled: 0
+    path: Assets/Scenes/Outbreak Scenes/scene_restart.unity
+    guid: ccda935110a32294ab175c6047ecf6d0
+  - enabled: 1
+    path: Assets/Scenes/Outbreak Scenes/scene_menu.unity
+    guid: 3ca80f075f9a17742a2dd45f62ce8f8d
+  - enabled: 1
+    path: Assets/Scenes/wald_der_toten.unity
+    guid: 831674022db670c4fa4b39f485288ce3
+  - enabled: 1
+    path: Assets/Scenes/Outbreak Scenes/scene_midtermProject.unity
+    guid: dee719ff15f63d94482a2d0ebafd425d
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 34b832a1690b9e14883e5b085c51ab4b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3906861f200847a4b970b0a3e1b54f45, type: 2}
