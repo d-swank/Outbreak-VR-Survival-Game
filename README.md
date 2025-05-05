@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Outbreak
 <p>
   Utilizing Unity's powerful engine, this VR survival horror game pits you against a relentless onslaught of cyber zombies. Your objective? Survive.
