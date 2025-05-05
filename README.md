@@ -8,5 +8,3 @@
 
 <a href="https://youtu.be/I9y_7VJ5-Z8">Demo Video</a>
 =======
-# OutBreak-VR-Survival-Game
->>>>>>> 2e118e5cce5b55f56d1c34bda614a6d841f58635
